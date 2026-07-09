@@ -26,7 +26,7 @@
   ],
   "compatibility": [
     {
-      "version": "1.17.x",
+      "version": "1.19.x",
       "image": "langflowai/langflow:latest",
       "uncompressed_size_mb": 2500,
       "available_tags": [
