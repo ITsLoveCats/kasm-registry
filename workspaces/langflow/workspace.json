@@ -1,6 +1,6 @@
 {
   "friendly_name": "Langflow",
-  "image_src": "langflow.jpg",
+  "image_src": "langflow.png",
   "description": "Langflow is a powerful and intuitive platform designed for building, iterating, and deploying AI applications.",
   "cores": 2,
   "memory": 2768,
