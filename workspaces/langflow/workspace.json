@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Langflow",
+  "image_src": "blob:https://itslovecats.github.io/bfffa839-3f96-4435-934c-018add804eaf",
+  "description": "Langflow is a powerful and intuitive platform designed for building, iterating, and deploying AI applications.",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Office"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "name": "langflowai/langflow:latest"
+}
