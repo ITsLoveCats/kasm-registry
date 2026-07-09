@@ -4,10 +4,10 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'AI Kasm',
+    description: 'AI Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/ITsLoveCats/kasm-registry/',
+    listUrl: 'https://itslovecats.github.io/kasm-registry/',
     contactUrl: 'https://github.com/ITsLoveCats/kasm-registry/issues',
   },
   reactStrictMode: true,
