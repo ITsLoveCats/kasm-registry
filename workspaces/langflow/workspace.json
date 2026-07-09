@@ -1,6 +1,6 @@
 {
   "friendly_name": "Langflow",
-  "image_src": "blob:https://itslovecats.github.io/bfffa839-3f96-4435-934c-018add804eaf",
+  "image_src": "langflow.jpg",
   "description": "Langflow is a powerful and intuitive platform designed for building, iterating, and deploying AI applications.",
   "cores": 2,
   "memory": 2768,
