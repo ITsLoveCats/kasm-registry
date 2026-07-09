@@ -2,23 +2,18 @@
   "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications.",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "langflow.png",
-  "service_type": "link",
   "run_config": {
     "hostname": "langflow-workspace",
-    "shm_size": "512m",
     "environment": {
       "LANGFLOW_HOST": "0.0.0.0",
       "LANGFLOW_PORT": "7860"
-    },
-    "ports": {
-      "7860/tcp": {}
     }
   },
   "cores": 2,
   "memory": 4096,
   "gpu_count": 0,
   "categories": [
-    "Browser"
+    "AI"
   ],
   "friendly_name": "Langflow",
   "architecture": [
